@@ -110,6 +110,10 @@ If you chose to raise an issue, make sure you answer these questions:
 
 And then you can add any additional details you want.
 
+# Technlogies Used
+
+This app was built with React-Native with the help of awesome packages like [react-native-background-actions](https://www.npmjs.com/package/react-native-background-actions), [react-native-background-timer](https://www.npmjs.com/package/react-native-background-timer) and [react-native-elements](https://reactnativeelements.com/)
+
 # Contributions
 
 Currently the App is in development and the source code is up on a private repository. I am looking for contributors to help with development and maintenance of this project. Anyone interested in working on the app can write to me at [swapnilbhattacharjee187@gmail.com](mailto:swapnilbhattacharjee187@gmail.com).
