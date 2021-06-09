@@ -29,17 +29,17 @@ To get notfied of available slots you need to create an Alert. But before you cr
     <img src="images/Settings.jpg" height="600" width="277" >
 </p>
 
-Search Preferences determine the results you see when you search for Vaccination Centers or Create an Alert. Here's a breif summary of what each setting does.
+Search Preferences determine the results you see when you search for Vaccination Centers or Create an Alert. Here's a brief summary of what each setting does.
 
-* Search by PIN Code : When Enabled, search results include vaccination centers in the area covered by the PIN Code you enter in the Settings. When Disable, the search results cover your entire district
+* Search by PIN Code : When Enabled, search results include vaccination centers in the area covered by the PIN Code you enter in the Settings. When Disabled, the search results cover your entire district
 
-* District : The District you want to be notified about. This works in tandem with the first setting. You can get a list of districts in a state by selecting the state from the dropdown above it
+* District : The District you want to be notified about. This works in tandem with the first setting. You can get a list of districts in a state by selecting the state from the dropdown above this one
 
-* PIN Code : The PIN Code you want to be notified. Before creating an alert for your PIN Code, check whether there are any Centers in that PIN Code. It is possible that all PIN Codes in a district may not have vaccination centers. You can search for vaccine centers in the Appointments Screen of this app.
+* PIN Code : The PIN Code you want to be notified about. Before creating an alert for your PIN Code, check whether there are any Centers in that PIN Code. It is possible that all PIN Codes in a district may not have vaccination centers. You can search for vaccine centers in the Appointments Screen of this app.
 
-* Age Group : The age group you belong to. This setting filters out all the sessions that you are not eligible for. If you don't specify your age group, search will include sessions for all age groups (18-44 and 45 and Above).
+* Age Group : The age group you belong to. This setting filters out all the sessions that you are not eligible for. If you don't specify your age group, search results will include sessions for all age groups (18-44 and 45 and Above).
 
-* Dose: This setting is only used in alerts. The search results on Appointment Screen aren't effected by this. This the dose of the vaccine you are supposed to take. This setting filters out sessions that where that particular dose isn't available.
+* Dose: This setting is only used in alerts. The search results on Appointment Screen aren't effected by this. This the dose of the vaccine you are supposed to take. This setting filters out sessions where that particular dose isn't available.
 
 * Open Slots Only: When this setting is enabled only sessions with available slots are displayed. This setting only affects the search results in the Appointmnet Screen only. Alerts only look for sessions with available slots. 
 
@@ -62,7 +62,7 @@ Advanced Features include:
 1. Auto Sign In (The application reads the OTP from SMS and signs you in automatically)
 2. Set Primary Benificiary: Get a list of benificiaries from the CoWIN portal and select a benificiary for appointmnet booking
 3. Appointment Booking: Book appointments inside the app. Saves you the hassle of Signing in with OTP
-4. Account Managemnt: Change the primary benificiary any time. You can also login with a different mobile Number
+4. Account Management: Change the primary benificiary any time. You can also login with a different mobile Number
 
 ## Benificiary List
 Here you can see your appointments and vaccination details
@@ -88,7 +88,7 @@ You can pull down to refresh the search results
 
 
 # About Access Tokens 
-Logging in to the App with a Benificiary Reference Id is not the same as logging into the CoWIN API. To identify a user, the API issues access tokens. These access tokens are used to establish your credentials with the server and is needed to perfrom secure tasks like getting benificiary details or scheduling vaccination appointments.
+Logging in to the App with a Benificiary Reference Id is not the same as logging into the CoWIN API. To identify a user, the API issues access tokens. These access tokens are used to establish your credentials with the server and are needed to perfrom secure tasks like getting benificiary details or scheduling vaccination appointments.
 
 An access token issued by the API is active for 15 minutes, and it expires after that. You can check the status of your access token by opening the Drawer and your token status will be displayed under you name. 
 
@@ -97,11 +97,11 @@ When your access token is expired, the app requests a new token when you perform
 # Known Issues
 
 1. In your first login attempt, while you grant the 'Read SMS' permission to the app, the sign in may fail.
-In that case you should wait for at least 5 minutes, after granting the permissions, before you try to login again. To avoid this problem, you can just go your **Phone Settings > App > Book My Vaccine > Permissions** and grant SMS permissions before attempting to login. We are aware of this issue and are working on a patch right now.
+In that case you should wait for at least 5 minutes, after granting the permissions, before you try to login again. Alternatively, you can  avoid this problem, by going to your **Phone Settings > App > Book My Vaccine > Permissions** and granting SMS permissions before you try to login. We are aware of this issue and are working on a patch right now.
 
 # Privacy Policy
 
-We do not collect any user data. All the network requests are to and from the CoWIN API and we do not store or share any data. All the data is created by the user and stays in the device.
+We do not collect any user data. All the network requests are to and from the CoWIN API and we do not store or share any data. All the data is created by the user and stays on the device.
 
 # Compatibilty
 
@@ -110,9 +110,9 @@ The App is compatible with Android versions 9, 10 and 11. Lower android versions
 # Report Bugs/Crashes
 You can report bugs by creating a new issue in the issues section of this repository. Before you create an issue please check if any simiar issues have been raised and resolved in the past.
 
-If you chose to raise an issue, make sure you answer these questions:
+If you choose to raise an issue, make sure you answer these questions:
 
-1. Which Screen were you an when the app crashed or the bug appeared?
+1. Which Screen were you on when the app crashed or the bug appeared?
 2. Did you press any button on the screen before the crash/bug occured? If yes, then which button?
 3. What were the values of the settings at the tinme of crash/bug appearance?
 4. Were you connected to the Internet at the time? How would you describe the network quality in your area?
@@ -120,7 +120,7 @@ If you chose to raise an issue, make sure you answer these questions:
 
 And then you can add any additional details you want.
 
-Please note that bugs related to the core functionality will be taken up with the highest priority and UI related bugs will be patched later in minor releases.
+Please note that bugs related to the core functionality will be taken up with the highest priority and UI related bugs will be patched later in subsequent releases.
 
 # Technlogies Used
 
