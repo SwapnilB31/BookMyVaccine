@@ -8,7 +8,7 @@ This is the first public release of this app. The app is still in development, a
 
 # Download The App
 
-You can download the APK by following [This Link](https://github.com/SwapnilB31/BookMyVaccine/raw/main/releasev0.1beta/BookMyVaccine-releasev0.1beta.apk)
+You can download the APK by following [This Link](https://github.com/SwapnilB31/BookMyVaccine/raw/main/releasev0.1beta/BookMyVaccine-releasev0.1.1beta.apk)
 
 ## Installation Instructions
 
@@ -52,6 +52,8 @@ Once you have specified either your district or PIN Code, you can go to the Aler
 <p align="center">
     <img src="images/Alert-Combined.png" width="560" height="600"/>
 </p>
+
+Alert runs a background process that queries the CoWIN public API periodically (every 20 seconds). It queries the *calenderByDistrict* or *calenderByPin* end-points of the API. These routes respond with a list of vaccination centers that have sessions upto one week from the date of query. This means that when you see a date of 10-06-2021 on the alert, it is looking for available slots from 10-06-2021 to 16-06-2021.
 
 When your alert is running you will see a notification with a progress bar that says 'Alert Running'. When new vaccine slots become available, you'll get a separate notification.
 
