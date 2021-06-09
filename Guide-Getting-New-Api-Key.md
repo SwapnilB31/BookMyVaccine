@@ -7,12 +7,15 @@
 <p align="center">
     <img src="images/developer-tools-network-tab.PNG"/>
 </p>
-3.From the Network Options, select Offline
+
+3. From the Network Options, select Offline
 <p align="center">
     <img src="images/dev-tools-network-options.png"/>
 </p>
+
 4. Enter your mobile number and click on Get OTP
 5. In the network tab you will see an XHR request to **generateMobileOTP**. Click on that and scroll down to Request Payload Section
+
 <p align="center">
     <img src="images/gen-otp-request.PNG"/>
 </p>
