@@ -18,6 +18,10 @@ You can download the APK by following [This Link](https://github.com/SwapnilB31/
 4. Return to the previous screen to complete installation 
 5. You may also get a popup from 'Play Protect' that says 'Blocked by Play Protect'. In that case press 'Install Anyway' to complete the installation.
 
+# Quick Links
+* [How to Get a new API Key](Guide-Getting-New-Api-Key.md)
+* [Known Issues](https://github.com/SwapnilB31/BookMyVaccine#known-issues) - check out this section if you have any problems with the app 
+
 # About
 
 Book My Vaccine is an Android App that helps you find out when and where Covid-19 Vaccine Slots become available in your locality. Every other solution that notifies you of vaccine availabilty runs on remote servers, and when the number of recipients to notify grow to a very large size, understandably there may be delays. And when everyone is trying to book the limited slots available, every second matters. With Book My Vaccine, all the processes run on your phone, and when slots become available you get a notification rightaway. 
