@@ -100,7 +100,7 @@ When your access token is expired, the app requests a new token when you perform
 
 # Known Issues
 
-1. In your first login attempt, while you grant the 'Read SMS' permission to the app, the sign in may fail.
+1. **(patched [2021-06-09 22:37]: Now asks for SMS Read Permissions at App Startup)** In your first login attempt, while you grant the 'Read SMS' permission to the app, the sign in may fail.
 In that case you should wait for at least 5 minutes, after granting the permissions, before you try to login again. Alternatively, you can  avoid this problem, by going to your **Phone Settings > App > Book My Vaccine > Permissions** and granting SMS permissions before you try to login. We are aware of this issue and are working on a patch right now.
 
 # Privacy Policy
