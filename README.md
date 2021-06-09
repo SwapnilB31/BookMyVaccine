@@ -16,6 +16,7 @@ You can download the APK by following [This Link](https://github.com/SwapnilB31/
 2. You will see a prompt that asks you to 'Allow Installation from Unknown Sources'
 3. Toggle the 'Allow From Unknown Sources' switch
 4. Return to the previous screen to complete installation 
+5. You may also get a popup from 'Play Protect' that says 'Blocked by Play Protect'. In that case press 'Install Anyway' to complete the installation.
 
 # About
 
@@ -93,9 +94,18 @@ An access token issued by the API is active for 15 minutes, and it expires after
 
 When your access token is expired, the app requests a new token when you perform a secure task. This is all handled by the app and doesn't require user intervention. Before entering a session, you can force a login by pressing on the 'Login to CoWIN' button at the bottom of the navigation drawer, to force a login to avoid a login related delay when performing time sensitive tasks such as scheduling an appointment.
 
+# Known Issues
+
+1. In your first login attempt, while you grant the 'Read SMS' permission to the app, the sign in may fail.
+In that case you should wait for at least 5 minutes, after granting the permissions, before you try to login again. To avoid this problem, you can just go your **Phone Settings > App > Book My Vaccine > Permissions** and grant SMS permissions before attempting to login. We are aware of this issue and are working on a patch right now.
+
 # Privacy Policy
 
 We do not collect any user data. All the network requests are to and from the CoWIN API and we do not store or share any data. All the data is created by the user and stays in the device.
+
+# Compatibilty
+
+The App is compatible with Android versions 9, 10 and 11. Lower android versions haven't been tested for compatibilty but the target platform supports Android 8 as well. You can try it out on your own phone to see if it works.
 
 # Report Bugs/Crashes
 You can report bugs by creating a new issue in the issues section of this repository. Before you create an issue please check if any simiar issues have been raised and resolved in the past.
@@ -109,6 +119,8 @@ If you chose to raise an issue, make sure you answer these questions:
 5. Was there anything unusual besides the scope of the first four questions that you noticed before the crash?
 
 And then you can add any additional details you want.
+
+Please note that bugs related to the core functionality will be taken up with the highest priority and UI related bugs will be patched later in minor releases.
 
 # Technlogies Used
 
