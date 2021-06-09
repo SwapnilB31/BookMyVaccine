@@ -8,7 +8,7 @@ This is the first public release of this app. The app is still in development, a
 
 # Download The App
 
-You can download the APK by following [This Link]()
+You can download the APK by following [This Link](https://github.com/SwapnilB31/BookMyVaccine/raw/main/releasev0.1beta/BookMyVaccine-releasev0.1beta.apk)
 
 ## Installation Instructions
 
