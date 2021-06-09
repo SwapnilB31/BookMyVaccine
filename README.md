@@ -4,7 +4,7 @@
 
 # Release 
 
-This is the first public release of this. The app is still in development, and this is just beta release. Expect it to be buggy , and fail sometimes. When you notice bugs, please report them here, so we can work towards making the App better. 
+This is the first public release of this App. The app is still in development, and this is just beta release. Expect it to be buggy , and fail sometimes. When you notice bugs, please report them here, so we can work towards making the App better. 
 
 *A patched version where the SMS Permissions bug is fixed was released on 10-06-2021. The patched version is the latest version of this app* 
 # Download The App
