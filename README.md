@@ -19,7 +19,7 @@ You can download the APK by following [This Link](https://github.com/SwapnilB31/
 1. Open the downloaded file
 2. You will see a prompt that asks you to 'Allow Installation from Unknown Sources'
 3. Toggle the 'Allow From Unknown Sources' switch
-4. Return to the previous screen to complete installation 
+4. Return to the previous screen to complete installation  
 5. You may also get a popup from 'Play Protect' that says 'Blocked by Play Protect'. In that case press 'Install Anyway' to complete the installation.
 
 # Quick Links
@@ -118,6 +118,8 @@ When your access token is expired, the app requests a new token when you perform
 
 1. **(patched [2021-06-09 22:37]: Now asks for SMS Read Permissions at App Startup)** In your first login attempt, while you grant the 'Read SMS' permission to the app, the sign in may fail.
 In that case you should wait for at least 5 minutes, after granting the permissions, before you try to login again. Alternatively, you can  avoid this problem, by going to your **Phone Settings > App > Book My Vaccine > Permissions** and granting SMS permissions before you try to login. We are aware of this issue and are working on a patch right now.
+
+2. In some phones notifications get delayed when the app is completely in the background (closed by the user). This can be mitigated by minimizing the app rather than closing it. We exploring options to resolve this in subsequent releases.  
 
 # Privacy Policy
 
