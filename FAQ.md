@@ -13,6 +13,10 @@ From 12:00 AM to 10:00AM, the alert looks for open slots for the current date. A
 
 All Text Inputs need to be submitted for their values to be saved on the device. Pin Code is entered by a Text Field, and all text fields have a submit button right next to them (The submit button is a blue checkmark). You need to press the submit button to save that value. This is also true for the API Key field.
 
+## My alert stopped running unexpectedly. Why did that happen and how do I avoid it?
+
+Your alert runs as long as the App is in the background. When you clear all your recent apps (including) this one, the app and all its associated processes are killed by the Operating System. Make sure that you don't clear all recent apps when an alert is running. Instead you should remove apps that no longer need to be in the background, one by one.
+
 ## I denied the SMS read permission at App Startup and now I can't login. How can I fix that?
 
 You can grant settings to apps manually by going to your Phone Settings:
