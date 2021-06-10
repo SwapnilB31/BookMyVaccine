@@ -38,6 +38,7 @@ Book My Vaccine is an Android App that helps you find out when and where Covid-1
 * [Known Issues](https://github.com/SwapnilB31/BookMyVaccine#known-issues)
 * [Privacy Policy](https://github.com/SwapnilB31/BookMyVaccine#privacy-policy)
 * [Report Bugs/Crashes](https://github.com/SwapnilB31/BookMyVaccine#report-bugscrashes)
+* [Contributions](https://github.com/SwapnilB31/BookMyVaccine#contributions)
 
 # Creating Alerts
 To get notfied of available slots you need to create an Alert. But before you create an alert you have to specify your Search Preferences in Settings
