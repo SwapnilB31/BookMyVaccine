@@ -119,7 +119,7 @@ When your access token is expired, the app requests a new token when you perform
 1. **(patched [2021-06-09 22:37]: Now asks for SMS Read Permissions at App Startup)** In your first login attempt, while you grant the 'Read SMS' permission to the app, the sign in may fail.
 In that case you should wait for at least 5 minutes, after granting the permissions, before you try to login again. Alternatively, you can  avoid this problem, by going to your **Phone Settings > App > Book My Vaccine > Permissions** and granting SMS permissions before you try to login. We are aware of this issue and are working on a patch right now.
 
-2. In some phones notifications get delayed when the app is completely in the background (closed by the user). This can be mitigated by minimizing the app rather than closing it. We exploring options to resolve this in subsequent releases.  
+2. In some phones notifications get delayed when the app is completely in the background (closed by the user). This can be mitigated by minimizing the app rather than closing it. You can also try opening the app when you unlock your phone after a long time; that may trigger pending notifications to be pushed up the queue. We are exploring options to resolve this in subsequent releases.  
 
 # Privacy Policy
 
