@@ -14,6 +14,8 @@ If you like the work that I am doing here, please star this repository.
 
 You can download the APK by following [This Link](https://github.com/SwapnilB31/BookMyVaccine/raw/main/releasev0.1beta/BookMyVaccine-releasev0.1.1beta.apk)
 
+Get the [Nightly Build](nightly-build/11-06-2021/BookMyVaccine-ntbld.apk)
+
 ## Installation Instructions
 
 1. Open the downloaded file
@@ -23,8 +25,10 @@ You can download the APK by following [This Link](https://github.com/SwapnilB31/
 5. You may also get a popup from 'Play Protect' that says 'Blocked by Play Protect'. In that case press 'Install Anyway' to complete the installation.
 
 # Quick Links
+* [FAQs](FAQ.md)
 * [How to Get a new API Key](Guide-Getting-New-Api-Key.md)
-* [Known Issues](https://github.com/SwapnilB31/BookMyVaccine#known-issues) - check out this section if you have any problems with the app 
+* [Known Issues](https://github.com/SwapnilB31/BookMyVaccine#known-issues) - check out this section if you have any problems with the app
+* [Nighly Build Log](Nightly-Build-Log.md) 
 
 # About
 
