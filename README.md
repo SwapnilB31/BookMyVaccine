@@ -8,7 +8,7 @@ Version 0.1.2 Beta is Here 🎉🎉
 
 ### Changes:
 * Signin Screen freezing bug fixed
-* UI Bugs in Settings in Search Screens where fixed
+* UI Bugs in Settings and Search Screens where fixed
 * Business Logic Bugs were fixed
 
 If you like the work that I am doing here, please star this repository.
