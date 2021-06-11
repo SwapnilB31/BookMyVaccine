@@ -4,17 +4,20 @@
 
 # Release 
 
-This is the first public release of this App. The app is still in development, and this is just beta release. Expect it to be buggy , and fail sometimes. When you notice bugs, please report them here, so we can work towards making the App better. 
+Version 0.1.2 Beta is Here 🎉🎉
 
-*A patched version where the SMS Permissions bug is fixed was released on 10-06-2021. The patched version is the latest version of this app*
+### Changes:
+* Signin Screen freezing bug fixed
+* UI Bugs in Settings in Search Screens where fixed
+* Business Logic Bugs were fixed
 
 If you like the work that I am doing here, please star this repository.
 
 # Download The App
 
-You can download the APK by following [This Link](https://github.com/SwapnilB31/BookMyVaccine/raw/main/releasev0.1beta/BookMyVaccine-releasev0.1.1beta.apk)
+You can download the APK by following [This Link](https://github.com/SwapnilB31/BookMyVaccine/raw/main/releasev0.1beta/BookMyVaccine-releasev0.1.2-beta.apk)
 
-Get the [Nightly Build](nightly-build/11-06-2021/BookMyVaccine-ntbld.apk)
+Get the [Nightly Build](https://github.com/SwapnilB31/BookMyVaccine/raw/main/releasev0.1beta/BookMyVaccine-releasev0.1.2-beta.apk)
 
 ## Installation Instructions
 
