@@ -17,7 +17,7 @@ If you like the work that I am doing here, please star this repository.
 
 You can download the APK by following [This Link](https://github.com/SwapnilB31/BookMyVaccine/raw/main/releasev0.1beta/BookMyVaccine-releasev0.1.2-beta.apk)
 
-Get the [Nightly Build](https://github.com/SwapnilB31/BookMyVaccine/raw/main/releasev0.1beta/BookMyVaccine-releasev0.1.2-beta.apk)
+Get the [Nightly Build](https://github.com/SwapnilB31/BookMyVaccine/raw/main/nightly-build/BookMyVaccine-ntlbld.apk)
 
 ## Installation Instructions
 
