@@ -151,7 +151,7 @@ And then you can add any additional details you want.
 
 Please note that bugs related to the core functionality will be taken up with the highest priority and UI related bugs will be patched later in subsequent releases.
 
-# Technlogies Used
+# Technologies Used
 
 This app was built with React-Native with the help of awesome packages like [react-native-background-actions](https://www.npmjs.com/package/react-native-background-actions), [react-native-background-timer](https://www.npmjs.com/package/react-native-background-timer) and [react-native-elements](https://reactnativeelements.com/)
 
